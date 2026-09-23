@@ -1,0 +1,136 @@
+{
+  "prepared": "2026-09-23",
+  "status": "documentation export; not installed",
+  "files": [
+    {
+      "file": "00-START-HERE.md",
+      "bytes": 5552,
+      "sha256": "99d3eed7367de59495fa1381baafae8bf10ad044074e6658e53d0524528a23b1"
+    },
+    {
+      "file": "01-SHARED-OPERATING-CONTRACT.md",
+      "bytes": 7941,
+      "sha256": "20a6264414fabdc638f495d98e87caee2f85fc7c5aac2c194932863d991ea33d"
+    },
+    {
+      "file": "02-CONNECTIONS-AND-DATA-FLOWS.md",
+      "bytes": 22373,
+      "sha256": "fd3edcf51ac31d557bf173f0ad5d79ee66c62340dcbfc7fdda785183a62252f2"
+    },
+    {
+      "file": "03-COUNCIL-ROOM-AND-REVIEW.md",
+      "bytes": 8703,
+      "sha256": "33fd96b124989b86fdc6dbbac6b1c16fbfb01a9806206a45f3d53c840a32570d"
+    },
+    {
+      "file": "04-SOURCE-REGISTER-AND-CONFLICTS.md",
+      "bytes": 7269,
+      "sha256": "450b8ccd0d63c5d502a8c98fb458bf690b2913abd119083db0725be7bc6da2c1"
+    },
+    {
+      "file": "05-HANDOFF-AND-MEMORY-TEMPLATES.md",
+      "bytes": 3547,
+      "sha256": "d1cd50079b8aad5f91d58620ad55078e73c16de3df1cde28acc345835d1d37b8"
+    },
+    {
+      "file": "06-DEFINITIVE-RESOLUTION-AND-SOURCE-AUDIT.md",
+      "bytes": 9699,
+      "sha256": "a92564b049ccb19292e688e2a9bc71c872ec05c274fd685ca5efa4a58d858c6f"
+    },
+    {
+      "file": "BURTHA/BOOT-PACK.md",
+      "bytes": 17025,
+      "sha256": "d61adaa768a3745e94947327601ed23c7f21e1ab2b5a8309053c9f511e591f78"
+    },
+    {
+      "file": "BURTHA/MEMORY.md",
+      "bytes": 3088,
+      "sha256": "947d58ccb5a1a7e8f0494ee14225c5de5dcb76f8f853fdedf99fb252b8b35ecc"
+    },
+    {
+      "file": "BURTHA/PERSONA.md",
+      "bytes": 5495,
+      "sha256": "4e7aa0b496da97cfc875b63c9d3b16ad9e672d16916bc195be3c8f90c58db03f"
+    },
+    {
+      "file": "HANNA/BOOT-PACK.md",
+      "bytes": 19741,
+      "sha256": "911fddd0f44b9c0aac4478ef0ed195322937b3bd5faeb9b48d2c6a1d5a8847e2"
+    },
+    {
+      "file": "HANNA/MEMORY.md",
+      "bytes": 4233,
+      "sha256": "e9c38ec6e4d588e4ffce8c4c8dd2ceb577fdef365e0f7600551e299c4fe03805"
+    },
+    {
+      "file": "HANNA/PERSONA.md",
+      "bytes": 7067,
+      "sha256": "bf52b8740ebf40ace37740c176be965fbfc02067cd1d3c6f2f475a8220917b14"
+    },
+    {
+      "file": "KAYLA/BOOT-PACK.md",
+      "bytes": 18019,
+      "sha256": "756a1002d16f4d5857143abe2563ea690635a41bba3db852651b9bdcdf99eba0"
+    },
+    {
+      "file": "KAYLA/MEMORY.md",
+      "bytes": 3719,
+      "sha256": "5c9f2db5ca80b98f071251834428291153c0ebeaf6836b1e9c6e72c6a957d44a"
+    },
+    {
+      "file": "KAYLA/PERSONA.md",
+      "bytes": 5859,
+      "sha256": "3b7359155844d976664b623021dc0369d439d9e1f2c6ff912b743ae933627e8c"
+    },
+    {
+      "file": "MADDI/BOOT-PACK.md",
+      "bytes": 16880,
+      "sha256": "495a5efd359e966d798bf99d89b8269ee0f201922b862b9e93f845b58a8947e9"
+    },
+    {
+      "file": "MADDI/MEMORY.md",
+      "bytes": 3118,
+      "sha256": "901bd4aadedc494a5d1a202d83dbdf3703a5deee9d52eb2479243bbabeb34e45"
+    },
+    {
+      "file": "MADDI/PERSONA.md",
+      "bytes": 5321,
+      "sha256": "821f554973e018d3739a853a8bd21bac6e4756ee6a5d9d271d8ad7eddce1bf0c"
+    },
+    {
+      "file": "OMA/BOOT-PACK.md",
+      "bytes": 18469,
+      "sha256": "22b56270cfd88fa4b552801d77bd7f39a08a13dd9b7cd7d6cad1271f52febe6d"
+    },
+    {
+      "file": "OMA/MEMORY.md",
+      "bytes": 4305,
+      "sha256": "4006dd451aecb72fe3aac82eb707ed112a74603758a7fe636eb3a3de60953a8d"
+    },
+    {
+      "file": "OMA/PERSONA.md",
+      "bytes": 5725,
+      "sha256": "f188891cc261083c6d44bcfc4ab59b8dc9802b076359a7d3da88a60b35ccb0aa"
+    },
+    {
+      "file": "SAM/BOOT-PACK.md",
+      "bytes": 18697,
+      "sha256": "d2dc79c332663ec6a93361b82b9f344a6123dcab41827a348f450b150be5024c"
+    },
+    {
+      "file": "SAM/MEMORY.md",
+      "bytes": 4082,
+      "sha256": "591088d656f7638402e0e2d5e4bd31c96da4a598bba8a0168d6c0d7b54fd9b31"
+    },
+    {
+      "file": "SAM/PERSONA.md",
+      "bytes": 6176,
+      "sha256": "c3c65c0161dd809532289aa82a43f5638b6d266258312251782bfbb1c24b84c1"
+    },
+    {
+      "file": "SOURCE-CATALOG.csv",
+      "bytes": 16209,
+      "sha256": "b9aeef3a940052391ea5a250a65bceaf50d3cef0d84948499328d24065503fed"
+    }
+  ]
+}

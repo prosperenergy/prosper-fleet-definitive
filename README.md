@@ -1,8 +1,10 @@
 # Prosper Fleet Definitive Pack (2026-09-23)
 
-Public, open pack of Prosper Grok Bot fleet personas, agent memory, live profiles, lanes, and boot docs.
+Public, open pack of Prosper Grok Bot fleet personas, agent memory, live profiles, lanes, boot docs, and Sam's definitive handbook synthesis.
 
-**Open URL:** https://github.com/prosperenergy/prosper-fleet-definitive
+**GitHub (this repo):** https://github.com/prosperenergy/prosper-fleet-definitive
+
+**Drive open pack:** https://drive.google.com/drive/folders/127EaNKiCv_lsA2WG5FiD91ORJf_L-JaI
 
 ## Hierarchy
 
@@ -31,14 +33,19 @@ Craig → dr eggbot (Grok Bot design / CreateAgent)
 | `08-t9-fleet-ops/` | T9 fleet-ops mirrors (non-secret) |
 | `09-github-mirror/` | Filesystem index snapshots |
 | `10-macbook-ai-pointers/` | Path pointers only (no lead dumps) |
+| `11-sam-definitive-handbook/` | **Sam's Sep 23 definitive synthesis** — handbook, HTML reader, DRIVE-VERIFY, and full `prosper-fleet-pack/` (authority for role depth). Folders `00–10` remain the prior eggbot pack. |
+
+## Authority note
+
+- `11-sam-definitive-handbook/` is Sam's September 23, 2026 definitive synthesis and is the documentation authority for role depth (persona / memory / boot packs).
+- `00–10` remain the prior eggbot pack (live profile snapshots and desk mirrors). Prefer `11` for how roles work; use `01`/`02`/`03` for what was live-exported that day.
+- Live operational flags (Cover Me, Approve gates, OJ clear, recruiter wind-down, TOKEN SAVER) live on the Mac shared desk `PERSONAS/` and `AGENT-MEMORY/` — not frozen forever in this public pack.
 
 ## Excluded
 
-Corporate KYC / app-answer sheets (SSN, bank), password vaults, 1Password exports, lead CSVs, contracts binaries, customer PII dumps.
+Corporate KYC / app-answer sheets (SSN, bank), password vaults, 1Password exports, lead CSVs, contracts binaries, customer PII dumps. No credentials.
 
-## Also on Drive (owner-restricted until anyone-link)
+## Local mirrors
 
-https://drive.google.com/drive/folders/1J-TjMYjv1r1a8qLy3joDKYt31rKxXvQ2
-
-Local Mac: `~/PROSPER-HANNA-SAM-SHARED/ACTIVE/20260923-fleet-definitive-pack/`  
-T9: `/Volumes/T9/04_Fleet-Ops/Definitive-Packs/`
+Local Mac: `~/PROSPER-HANNA-SAM-SHARED/ACTIVE/20260923-sam-definitive-pack/`  
+T9: `/Volumes/T9/04_Fleet-Ops/Definitive-Packs/20260923-sam-definitive-pack/`

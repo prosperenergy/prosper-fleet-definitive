@@ -1,0 +1,94 @@
+{
+  "verified_at": "2026-09-23T16:08:54.741922+00:00",
+  "folder_url": "https://drive.google.com/drive/folders/127EaNKiCv_lsA2WG5FiD91ORJf_L-JaI",
+  "sharing": "anyone with the link, reader",
+  "verified_files": [
+    {
+      "name": "READ-ME-FIRST.txt",
+      "url": "https://drive.google.com/file/d/11TyK_0bQNC702Ds3AEROUGty1IqfRgrx/view?usp=drivesdk",
+      "bytes": 940,
+      "md5_match": true
+    },
+    {
+      "name": "PROSPER-FLEET-FULL-HANDBOOK.txt",
+      "url": "https://drive.google.com/file/d/1-UH6bTLscBydITKq96JHlzRM1l0PREGs/view?usp=drivesdk",
+      "bytes": 123399,
+      "md5_match": true
+    },
+    {
+      "name": "PROSPER-FLEET-FULL-PACK.zip",
+      "url": "https://drive.google.com/file/d/1YkuU0ZYDvA5irXZYkoUCYp-UNQ5weP3g/view?usp=drivesdk",
+      "bytes": 244353,
+      "md5_match": true
+    },
+    {
+      "name": "PROSPER-FLEET-HANDBOOK.html",
+      "url": "https://drive.google.com/file/d/1XTZ1RR7Epshs4HhTYHLOcm3cE3o9q6I2/view?usp=drivesdk",
+      "bytes": 137197,
+      "md5_match": true
+    },
+    {
+      "name": "HANNA-PERSONA-AND-MEMORY.md",
+      "url": "https://drive.google.com/file/d/1rKs0RA9AXmgf0neRNLoTVB8VGzONAtD2/view?usp=drivesdk",
+      "bytes": 19741,
+      "md5_match": true
+    },
+    {
+      "name": "SAM-PERSONA-AND-MEMORY.md",
+      "url": "https://drive.google.com/file/d/1skfzbaHvWJyIlUSiE2-KzW4P25J7mEsH/view?usp=drivesdk",
+      "bytes": 18697,
+      "md5_match": true
+    },
+    {
+      "name": "BURTHA-PERSONA-AND-MEMORY.md",
+      "url": "https://drive.google.com/file/d/1L4UoKdZtVbsRKKuGntOyRcp8bsPVid5E/view?usp=drivesdk",
+      "bytes": 17025,
+      "md5_match": true
+    },
+    {
+      "name": "KAYLA-PERSONA-AND-MEMORY.md",
+      "url": "https://drive.google.com/file/d/1DL_0Egs1oq8Gzd2CowosSaqvKbGZBEvu/view?usp=drivesdk",
+      "bytes": 18019,
+      "md5_match": true
+    },
+    {
+      "name": "MADDI-PERSONA-AND-MEMORY.md",
+      "url": "https://drive.google.com/file/d/1XHKFuUlGmHWv4_Q6ZPHki7Ovw66lV4OD/view?usp=drivesdk",
+      "bytes": 16880,
+      "md5_match": true
+    },
+    {
+      "name": "OMA-PERSONA-AND-MEMORY.md",
+      "url": "https://drive.google.com/file/d/15z3B2fhao3Zj8jq3TomVIUi_-8pHsDUJ/view?usp=drivesdk",
+      "bytes": 18469,
+      "md5_match": true
+    },
+    {
+      "name": "SOURCE-CATALOG.csv",
+      "url": "https://drive.google.com/file/d/1U-zU4ouEjgSOoBtL6sfwyswTuLnqPRAu/view?usp=drivesdk",
+      "bytes": 16209,
+      "md5_match": true
+    },
+    {
+      "name": "SOURCE-AUDIT-AND-RESOLUTIONS.md",
+      "url": "https://drive.google.com/file/d/1clGXtLgeMIyO9esUfCqTzSUQ9XslkVNj/view?usp=drivesdk",
+      "bytes": 9699,
+      "md5_match": true
+    }
+  ],
+  "anonymous_downloads": [
+    {
+      "name": "PROSPER-FLEET-FULL-HANDBOOK.txt",
+      "anonymous_http_status": 200,
+      "bytes": 123399,
+      "matches_local_sha256": true
+    },
+    {
+      "name": "PROSPER-FLEET-FULL-PACK.zip",
+      "anonymous_http_status": 200,
+      "bytes": 244353,
+      "matches_local_sha256": true
+    }
+  ],
+  "runtime_installation": "not performed"
+}
