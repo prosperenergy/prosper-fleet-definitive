@@ -34,7 +34,7 @@ Craig → dr eggbot (Grok Bot design / CreateAgent)
 
 ## Excluded
 
-Password vaults, 1Password exports, lead CSVs, contracts binaries, customer PII dumps.
+Corporate KYC / app-answer sheets (SSN, bank), password vaults, 1Password exports, lead CSVs, contracts binaries, customer PII dumps.
 
 ## Also on Drive (owner-restricted until anyone-link)
 

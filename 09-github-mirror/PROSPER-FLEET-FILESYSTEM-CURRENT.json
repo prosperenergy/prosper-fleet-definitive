@@ -1,0 +1,66 @@
+{
+  "authority_order": [
+    "Redis runtime state",
+    "local control plane",
+    "T9 durable control plane",
+    "Supabase durable ledger",
+    "private GitHub human-readable mirror"
+  ],
+  "desktop_filing_updated_at": "2026-09-03T21:04:16.297166+00:00",
+  "desktop_intake": {
+    "eligible_item_count": 0,
+    "items": [],
+    "local_registry": "/Users/craigstratton/.local/share/prosper-desktop-filing/desktop-file-locations.json",
+    "location_policy": "/Users/craigstratton/PROSPER-HANNA-SAM-SHARED/FILE-LOCATIONS.md",
+    "location_registry": "/Volumes/T9/_MAP/desktop-file-locations.json",
+    "lookup_command": "/Users/craigstratton/bin/prosper-find-document",
+    "path": "/Users/craigstratton/Desktop",
+    "route_command": "/Users/craigstratton/bin/prosper-desktop-file sweep --apply",
+    "routing_hold_seconds": 1800
+  },
+  "front_doors": {
+    "fleet_boot": "/Users/craigstratton/.prosper/fleet/control-plane/PROSPER-FLEET-BOOT-CURRENT.md",
+    "operations_index": "/Volumes/T9/01_Active/Prosper-Operations/README.md",
+    "portable_agent_bootstrap": "/Volumes/T9/04_Fleet-Ops/Portable-Agent-Bootstrap/README.md",
+    "runtime_control_plane": "/Users/craigstratton/.prosper/fleet/control-plane",
+    "t9_control_plane": "/Volumes/T9/04_Fleet-Ops/Control-Plane",
+    "t9_map": "/Volumes/T9/_MAP/t9_map.json",
+    "t9_start_here": "/Volumes/T9/START_HERE.md"
+  },
+  "generated_at": "2026-07-21T01:44:37Z",
+  "mirrors": {
+    "github_path": "docs/fleet/PROSPER-FLEET-FILESYSTEM-CURRENT.json",
+    "local_path": "/Users/craigstratton/.prosper/fleet/control-plane/PROSPER-FLEET-FILESYSTEM-CURRENT.json",
+    "supabase_record_id": "prosper-fleet-filesystem-index",
+    "t9_path": "/Volumes/T9/04_Fleet-Ops/Control-Plane/PROSPER-FLEET-FILESYSTEM-CURRENT.json"
+  },
+  "redis": {
+    "capability_bootstrap_key": "prosper:fleet:capability_bootstrap:current",
+    "directive_hash": "de814a50300cc7d0cdf59386ee7c1c389b2c2fed5f94577b41fc24e7d2550778",
+    "directive_key": "prosper:fleet:current_directive",
+    "filesystem_index_key": "prosper:fleet:filesystem_index",
+    "proof_hash": "54b1ed43aac28dfd87d3b1af1b78472b6c4657e9d6e4c9d6eec15bbea0e9c711",
+    "proof_key": "prosper:fleet:current_proof",
+    "verified_capabilities_pointer": "prosper:fleet:verified_capabilities:current"
+  },
+  "schema_version": "1",
+  "t9": {
+    "locked_zone_policy": "Read map before moving; locked zones and root boot files are never moved by the router.",
+    "map_hash": "7c8d195114c36ecad1f410f94755de8c6cfea4c91e23d4c9506d2afd5412d6e0",
+    "mounted": true,
+    "root": "/Volumes/T9",
+    "zones": [
+      "00_INBOX",
+      "00_BACKUPS",
+      "01_Active",
+      "02_Design-System",
+      "03_Sales-Process",
+      "04_Fleet-Ops",
+      "05_People",
+      "06_QA-Tests",
+      "07_Archives",
+      "Developer",
+      "_MAP"
+    ]
+  }
+}

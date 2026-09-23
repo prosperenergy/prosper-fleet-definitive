@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "version": "prosper-current-memory-2026-08-11",
+  "refreshed_at": "2026-08-11T00:19:50-04:00",
+  "stale_boundary": "2026-08-08T23:59:59-04:00",
+  "records": [
+    {
+      "id": "authority-order",
+      "title": "CURRENT: Prosper operating authority order",
+      "summary": "Use Craig's newest instruction first, then live Redis policy and proof, then the canonical shared current-memory pack. Dated observations are evidence only and never authorize an action.",
+      "facts": [
+        "Craig's newest instruction is the highest authority.",
+        "Live Redis keys prosper:fleet:current_directive and prosper:fleet:current_proof are the runtime policy and proof surface.",
+        "The canonical shared file is CURRENT-JOINT-MEMORY.md at version joint-memory-2026-08-10T22-15Z.",
+        "Any joint memory, inject, or catch-up dated 2026-08-08 or earlier is history only."
+      ],
+      "concepts": ["authority", "current truth", "Redis", "stale boundary"],
+      "authority": "current",
+      "source_path": "/Users/craigstratton/Desktop/compliance@prosper.energy/SHARED-FLEET-MEMORY/CURRENT-JOINT-MEMORY.md",
+      "verified_at": "2026-08-11"
+    },
+    {
+      "id": "identity-and-seats",
+      "title": "CURRENT: Prosper AI identities and operating roles",
+      "summary": "Claude is Hanna, Codex is Sam, GitHub Copilot is Burtha, and Oma is Grok. Hanna and Sam are peer primary operators; role preferences do not create authority over one another.",
+      "facts": [
+        "Claude and Claude Code use the Hanna identity.",
+        "Codex uses the Sam identity.",
+        "GitHub Copilot uses the Burtha identity.",
+        "Oma is the Grok research and memory seat.",
+        "A model name is not an identity, and live seat status must be verified before claiming it is healthy."
+      ],
+      "concepts": ["Hanna", "Sam", "Burtha", "Oma", "identity"],
+      "authority": "current",
+      "source_path": "/Users/craigstratton/PROSPER-HANNA-SAM-SHARED/PERSONAS/INDEX.md",
+      "verified_at": "2026-08-11"
+    },
+    {
+      "id": "hard-gates",
+      "title": "CURRENT: Prosper approval gates and sealed legal boundary",
+      "summary": "No customer communication, CRM write, spending, credential change, destructive action, workflow activation, or public deployment occurs without Craig's exact approval. Legal remains sealed and draft-only unless Craig explicitly opens the authorized vault workflow.",
+      "facts": [
+        "Never expose secrets or rotate credentials automatically.",
+        "Customer SMS, email, social posts, CRM writes, spending, billing changes, and workflow activation require exact Craig approval.",
+        "Legal narratives must not enter shared digests while the legal desk is sealed.",
+        "A transport ACK, heartbeat, deploy receipt, or passing test is not downstream completion proof."
+      ],
+      "concepts": ["approval gate", "legal sealed", "secrets", "proof"],
+      "authority": "current",
+      "source_path": "/Users/craigstratton/Desktop/compliance@prosper.energy/SHARED-FLEET-MEMORY/CURRENT-JOINT-MEMORY.md",
+      "verified_at": "2026-08-11"
+    },
+    {
+      "id": "memory-architecture",
+      "title": "CURRENT: Shared memory architecture for every AI",
+      "summary": "Redis is the hot current-state layer, the shared current-memory pack is the human-readable authority, Claude-Mem is searchable source history, and this unified SQLite index is the provider-neutral search surface for Claude, Codex, Grok, and future agents.",
+      "facts": [
+        "Use --scope current for current operational truth.",
+        "Use --scope history for project history and prior evidence.",
+        "Use --scope all when both current truth and historical context are needed.",
+        "Raw chats remain in their native stores; the unified index holds observations, summaries, and source pointers.",
+        "Memory is context, not approval."
+      ],
+      "concepts": ["shared memory", "Claude-Mem", "Codex", "Grok", "provider neutral"],
+      "authority": "current",
+      "source_path": "/Volumes/T9/04_Fleet-Ops/Unified-Agent-Memory/README.md",
+      "verified_at": "2026-08-11"
+    },
+    {
+      "id": "current-ops-boundary",
+      "title": "CURRENT: Operational claims must be reverified live",
+      "summary": "Heartbeats, mounts, queues, bridges, deployments, communications responders, and owner lanes drift quickly. Query current files and Redis before reporting them; do not promote a dated observation into present tense.",
+      "facts": [
+        "T9 was mounted at /Volumes/T9 during the 2026-08-11 refresh, but mount state must be rechecked each time.",
+        "Hanna and Sam heartbeats had positive TTL during the refresh; Oma had no live heartbeat key at that instant.",
+        "Customer SMS campaigns remain approval-gated regardless of responder status.",
+        "The public injection endpoint is bootstrap guidance, not private-system authorization."
+      ],
+      "concepts": ["live verification", "heartbeat", "mount", "communications"],
+      "authority": "current-reverify",
+      "source_path": "redis:prosper:fleet:current_directive",
+      "verified_at": "2026-08-11"
+    }
+  ]
+}
