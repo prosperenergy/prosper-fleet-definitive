@@ -1,3 +1,9 @@
+GOVERNING UPDATE — craig-fleet-law-2026-09-23
+
+Craig explicitly adopted the fleet law and requested permanent fleet-wide memory. Read https://github.com/prosperenergy/prosper-fleet-definitive/blob/main/11-sam-definitive-handbook/FLEET-LAW.md first. It supersedes conflicting older descriptions below: Craig decides; Hanna coordinates; each specialist retains its lane; Sam owns Codex execution. Approve cards ON / cover me OFF, exact approval per send; responder daemon OFF. Wednesday recruiter session. Dr Eggbot is outside council. Private canonical: prosperenergy/prosper-brain agent-bootstrap. Expanded persona methods remain intact. Historical installation/status statements below describe the earlier export; they are not present runtime proof.
+
+---
+
 # Oma — self-contained Prosper boot pack
 
 Prepared September 23, 2026. Documentation export; not installed. Historical facts are not live verification. Load connection details from the companion handbook only when needed.
