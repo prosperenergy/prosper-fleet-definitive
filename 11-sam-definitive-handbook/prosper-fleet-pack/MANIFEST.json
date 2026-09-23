@@ -1,136 +1,137 @@
 {
   "prepared": "2026-09-23",
-  "status": "documentation export; not installed",
+  "status": "Governing policy saved; hosted adoption tracked separately from document hashes.",
   "files": [
     {
       "file": "00-START-HERE.md",
-      "bytes": 5552,
-      "sha256": "99d3eed7367de59495fa1381baafae8bf10ad044074e6658e53d0524528a23b1"
+      "bytes": 6311,
+      "sha256": "63ee6ad19db1df7c2eac570af327b0daed5fd6ff40b34c2ce986a3066e99db29"
     },
     {
       "file": "01-SHARED-OPERATING-CONTRACT.md",
-      "bytes": 7941,
-      "sha256": "20a6264414fabdc638f495d98e87caee2f85fc7c5aac2c194932863d991ea33d"
+      "bytes": 8700,
+      "sha256": "2ad33e117b59d505778686070d01f7eb825dbe66e6bc39e8d580ccd1398ec7c1"
     },
     {
       "file": "02-CONNECTIONS-AND-DATA-FLOWS.md",
-      "bytes": 22373,
-      "sha256": "fd3edcf51ac31d557bf173f0ad5d79ee66c62340dcbfc7fdda785183a62252f2"
+      "bytes": 23132,
+      "sha256": "d651ce8134eaf50dacc5d32a2136aa79d4f30be76a7c6026674342e604409c77"
     },
     {
       "file": "03-COUNCIL-ROOM-AND-REVIEW.md",
-      "bytes": 8703,
-      "sha256": "33fd96b124989b86fdc6dbbac6b1c16fbfb01a9806206a45f3d53c840a32570d"
+      "bytes": 9462,
+      "sha256": "3156f07790dc16f0396bc6a1a6a7af3cca0791c776fdd70a4144bc976c82d27f"
     },
     {
       "file": "04-SOURCE-REGISTER-AND-CONFLICTS.md",
-      "bytes": 7269,
-      "sha256": "450b8ccd0d63c5d502a8c98fb458bf690b2913abd119083db0725be7bc6da2c1"
+      "bytes": 8028,
+      "sha256": "81b268a92b4d5423b14b75db29d4f74066f941e1a3006cf4cf6b1d59fc82b263"
     },
     {
       "file": "05-HANDOFF-AND-MEMORY-TEMPLATES.md",
-      "bytes": 3547,
-      "sha256": "d1cd50079b8aad5f91d58620ad55078e73c16de3df1cde28acc345835d1d37b8"
+      "bytes": 4306,
+      "sha256": "163a82468e789934e9bb09b915faddb844710ee8887892cb0e770fde09a02c9a"
     },
     {
       "file": "06-DEFINITIVE-RESOLUTION-AND-SOURCE-AUDIT.md",
-      "bytes": 9699,
-      "sha256": "a92564b049ccb19292e688e2a9bc71c872ec05c274fd685ca5efa4a58d858c6f"
+      "bytes": 10458,
+      "sha256": "104f63d07c9f006170eb9fa0c48d3a824c568a28d810bc620b5e094f531e1fa5"
     },
     {
       "file": "BURTHA/BOOT-PACK.md",
-      "bytes": 17025,
-      "sha256": "d61adaa768a3745e94947327601ed23c7f21e1ab2b5a8309053c9f511e591f78"
+      "bytes": 17784,
+      "sha256": "410de7f04f9f49cd0507d7a1caec2fc370387599ea3c91beabccd8e51981d38a"
     },
     {
       "file": "BURTHA/MEMORY.md",
-      "bytes": 3088,
-      "sha256": "947d58ccb5a1a7e8f0494ee14225c5de5dcb76f8f853fdedf99fb252b8b35ecc"
+      "bytes": 3847,
+      "sha256": "7a4bb8b694a01fb413d212c59d875b79726a7c8139d2f8e20580c07e99a440a9"
     },
     {
       "file": "BURTHA/PERSONA.md",
-      "bytes": 5495,
-      "sha256": "4e7aa0b496da97cfc875b63c9d3b16ad9e672d16916bc195be3c8f90c58db03f"
+      "bytes": 6254,
+      "sha256": "23604ada001b006855ee6785946fa2e738f04a6848587f929d438af76b12500d"
     },
     {
       "file": "HANNA/BOOT-PACK.md",
-      "bytes": 19741,
-      "sha256": "911fddd0f44b9c0aac4478ef0ed195322937b3bd5faeb9b48d2c6a1d5a8847e2"
+      "bytes": 20500,
+      "sha256": "c957911ad811a7f0635068ae78ac2c88534d635d3708f9928ae5be7c85a588a9"
     },
     {
       "file": "HANNA/MEMORY.md",
-      "bytes": 4233,
-      "sha256": "e9c38ec6e4d588e4ffce8c4c8dd2ceb577fdef365e0f7600551e299c4fe03805"
+      "bytes": 4992,
+      "sha256": "cb5329f9355a7a55f3f1656a3d088c5ad3e5203e8926891ac01c770c03d23043"
     },
     {
       "file": "HANNA/PERSONA.md",
-      "bytes": 7067,
-      "sha256": "bf52b8740ebf40ace37740c176be965fbfc02067cd1d3c6f2f475a8220917b14"
+      "bytes": 7826,
+      "sha256": "dafa108294fd88efda6efb2a9a5873065b9abde468d3f77a09b519eb33e85161"
     },
     {
       "file": "KAYLA/BOOT-PACK.md",
-      "bytes": 18019,
-      "sha256": "756a1002d16f4d5857143abe2563ea690635a41bba3db852651b9bdcdf99eba0"
+      "bytes": 18778,
+      "sha256": "80d9c15c33b00dc833a26bac0aae62eda046f11fc377c2a6337b043879020bdf"
     },
     {
       "file": "KAYLA/MEMORY.md",
-      "bytes": 3719,
-      "sha256": "5c9f2db5ca80b98f071251834428291153c0ebeaf6836b1e9c6e72c6a957d44a"
+      "bytes": 4478,
+      "sha256": "35ad9f2cacd8b732f373b275afb00d5c56d005304a1ffaa30f9ce85fbc8f143d"
     },
     {
       "file": "KAYLA/PERSONA.md",
-      "bytes": 5859,
-      "sha256": "3b7359155844d976664b623021dc0369d439d9e1f2c6ff912b743ae933627e8c"
+      "bytes": 6618,
+      "sha256": "6a4608cf4a8448056032b50339507a1e0fccc35b619a61ad39a2ca95ba4fbba5"
     },
     {
       "file": "MADDI/BOOT-PACK.md",
-      "bytes": 16880,
-      "sha256": "495a5efd359e966d798bf99d89b8269ee0f201922b862b9e93f845b58a8947e9"
+      "bytes": 17639,
+      "sha256": "aa96600667eed157d79fb9a2a0252262f2913779c4b1de6d828460ba7a3cd4cc"
     },
     {
       "file": "MADDI/MEMORY.md",
-      "bytes": 3118,
-      "sha256": "901bd4aadedc494a5d1a202d83dbdf3703a5deee9d52eb2479243bbabeb34e45"
+      "bytes": 3877,
+      "sha256": "fc2abb0ab6f3ac8cd3d539121145ce7f5be6f2c83c0c0af2833868929166336d"
     },
     {
       "file": "MADDI/PERSONA.md",
-      "bytes": 5321,
-      "sha256": "821f554973e018d3739a853a8bd21bac6e4756ee6a5d9d271d8ad7eddce1bf0c"
+      "bytes": 6080,
+      "sha256": "ef7d7c21b18c35d0d6c4abd6fcd12be6deb2842abe854b238049cbf73c908754"
     },
     {
       "file": "OMA/BOOT-PACK.md",
-      "bytes": 18469,
-      "sha256": "22b56270cfd88fa4b552801d77bd7f39a08a13dd9b7cd7d6cad1271f52febe6d"
+      "bytes": 19228,
+      "sha256": "44f92a4d0017831b68081c102e1ebcbc99bf3fb7c7e62d8451912d98123a2d52"
     },
     {
       "file": "OMA/MEMORY.md",
-      "bytes": 4305,
-      "sha256": "4006dd451aecb72fe3aac82eb707ed112a74603758a7fe636eb3a3de60953a8d"
+      "bytes": 5064,
+      "sha256": "d8b91751528374238828734c25c2d4aa49d8895a6d0c7bf950804f8d1e675042"
     },
     {
       "file": "OMA/PERSONA.md",
-      "bytes": 5725,
-      "sha256": "f188891cc261083c6d44bcfc4ab59b8dc9802b076359a7d3da88a60b35ccb0aa"
+      "bytes": 6484,
+      "sha256": "dcbded93c38205fa6d784c9b1af5370a1796f624ad6a7f5501b75c9556cc9783"
     },
     {
       "file": "SAM/BOOT-PACK.md",
-      "bytes": 18697,
-      "sha256": "d2dc79c332663ec6a93361b82b9f344a6123dcab41827a348f450b150be5024c"
+      "bytes": 19456,
+      "sha256": "53c48d473306e4984f3abdbf668582d30eaa2e2c4ff2f0796b2013189e60a820"
     },
     {
       "file": "SAM/MEMORY.md",
-      "bytes": 4082,
-      "sha256": "591088d656f7638402e0e2d5e4bd31c96da4a598bba8a0168d6c0d7b54fd9b31"
+      "bytes": 4841,
+      "sha256": "d2542523eace8008b480eb30bfcb0a9fc44ec0ec597a777485fd5bed0cfbafc4"
     },
     {
       "file": "SAM/PERSONA.md",
-      "bytes": 6176,
-      "sha256": "c3c65c0161dd809532289aa82a43f5638b6d266258312251782bfbb1c24b84c1"
+      "bytes": 6935,
+      "sha256": "16ecf781c24c9070ba0528812d6c2554ec90aa963189c0ca2e6402c02824514c"
     },
     {
       "file": "SOURCE-CATALOG.csv",
       "bytes": 16209,
       "sha256": "b9aeef3a940052391ea5a250a65bceaf50d3cef0d84948499328d24065503fed"
     }
-  ]
+  ],
+  "version": "craig-fleet-law-2026-09-23"
 }
